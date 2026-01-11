@@ -1,7 +1,7 @@
 # PadKit
 
 PadKit is a Compose Multiplatform library that allows developers to create custom virtual gamepads for games and applications.
-This project is a continuation of the original [JamPadCompose](https://github.com/piepacker/JamPadCompose) by Jam.gg.
+This project is a continuation of the original [JamPadCompose](https://github.com/piepacker/JamPadCompose) by Jam.gg .
 
 ### Controls
 
