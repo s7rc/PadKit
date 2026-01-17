@@ -70,7 +70,7 @@ version = gitVersion()
 mavenPublishing {
     publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, automaticRelease = true)
     signAllPublications()
-    coordinates("io.github.swordfish90", "padkit", version.toString())
+    coordinates("io.github.s7rc", "padkit", version.toString())
 
     pom {
         name.set(project.name)
